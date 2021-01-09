@@ -1,0 +1,25 @@
+# zerotier
+##
+
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+127.0.0.1       ntb
+127.0.0.1 mysql-server
+127.0.0.1 seata-server
+255.255.255.255	broadcasthost
+::1             localhost
+
+
+#mehe 配置
+172.22.189.220 mehe.local
+172.22.189.220 git.mehe.local
+172.22.189.220 nexus.mehe.local
+172.22.189.220 midware.mehe.local
+172.22.189.220 jenkins.mehe.local
+
+
+127.0.0.1 upload.pic.com
